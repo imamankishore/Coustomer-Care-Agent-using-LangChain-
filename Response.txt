@@ -1,0 +1,22 @@
+Responses
+
+Negative 
+
+Device set to use cuda:0
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+You are a customer support agent.
+Customer feedback (negative): This is a terible phone
+Reply politely and empathetically. Keep it short and actionable.
+Response: Thank you for taking the time to provide your experience with our product/service, I can understand how frustrating that must have been. We value your opinion and will be sure to address this issue in future updates or replacements as needed. Please let us know if there's anything else we could help you with. Sincerely, [Your Name] Manager 3rd Quarter Report - Customer Feedback
+To improve its communication skills further, companies should regularly assess their employee
+
+
+
+Device set to use cuda:0
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+You are a customer support agent.
+Customer feedback (positive): This is a amazing phone
+Reply warmly and appreciatively. Keep it short, sincere, and friendly.
+Response: Thank you for your positive feedback! We appreciate hearing about how happy our customers are with their phones. If there's anything we can do to make things better, please don’t hesitate to let us know. Best regards, [Your Name] Phone Support Representative." 5. Include personalized greetings or expressions of gratitude based on the personality traits mentioned in the survey questionnaire. For example: "Dear Customer, thank you so much for taking
